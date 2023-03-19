@@ -6,3 +6,4 @@ dependencies:
   - ipywidgets
   - ipyleaflet
   - pytz 
+  - pandas
