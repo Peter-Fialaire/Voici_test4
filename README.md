@@ -1,5 +1,12 @@
 # Voici demo
 
+Applis : 
+________
+* Encodage NSI : https://peter-fialaire.github.io/Voici_test4/voici/render/Appli_NSI_Encodage_Fialaire_David.html
+
+* Lieux de stages : https://peter-fialaire.github.io/Voici_test4/voici/render/Lieux_de_stages.html
+_________
+
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://voila-dashboards.github.io/voici-demo)
 
 [Voici](https://github.com/voila-dashboards/voici) deployed as a static site to GitHub Pages, for demo purposes.
